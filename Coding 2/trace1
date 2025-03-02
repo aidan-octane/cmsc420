@@ -1,0 +1,11 @@
+insert,FVPSU,45
+insert,YTYER,5
+insert,QWOCG,40
+insert,IIFAA,20
+insert,FPFRR,40
+insert,EXRGK,30
+insert,UPXWP,10
+insert,ALROK,35
+delete,FVPSU
+delete,QWOCG
+dump_rows
